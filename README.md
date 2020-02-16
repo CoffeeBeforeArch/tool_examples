@@ -1,2 +1,2 @@
-# tool_examples
-A collection of examples for the "Tools of the Trade" series
+# Tool Examples
+A collection of examples from the "Tools of the Trade" series
